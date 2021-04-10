@@ -1,0 +1,10 @@
+[This is an interpreter for brainFuck++.
+Your brainFuck++-program has to be written in bFpp-program.txt (this file). 
+The valid commands are '+', '-', '<', '>', 'v' or 'V', '^', ',', '.', ']', '['. All other characters are ignored.]
+
+>+++ +++ ++ 
+[v+++ +++ ++ >+++ +++ +++ ^<-]
+v+++ +++ ++.
+>---.
+<+++ +..
++++.
