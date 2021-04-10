@@ -1,2 +1,4 @@
+[This is an interpreter for the esoteric programming language brainfuck written in C++.
+When the program is run from the command line it will by default look for a brainf.txt (this file) file in the current working directory. If a second argument is given it will try to open that file or path instead, this way you can run any file.]
 >++++ ++++[-<+++++++++>]<.>>+>-[+]++>++>+++[>[->+++<<+++>]<<]>-----.>->
 +++..+++.>-.<<+[>[+>+]>>]<--------------.>>.+++.------.--------.>+.>+.
