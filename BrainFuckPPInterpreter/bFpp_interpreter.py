@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 
 POINTER = [0,0]
