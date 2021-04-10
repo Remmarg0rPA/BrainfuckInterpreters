@@ -1,0 +1,4 @@
+[This is an interpreter for brainFuck written in python3
+The valid commands are '+', '-', '<', '>', ',', '.', ']', '['.
+Write your program in bFprogram.txt, this file.]
+++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.
